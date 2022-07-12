@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/gameaccolades/static/css/main.073c9b0a.css",
-    "main.js": "/gameaccolades/static/js/main.ecf8d240.js",
+    "main.js": "/gameaccolades/static/js/main.4cddf346.js",
     "static/js/787.28cb0dcd.chunk.js": "/gameaccolades/static/js/787.28cb0dcd.chunk.js",
     "static/media/logo.svg": "/gameaccolades/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/gameaccolades/index.html",
     "main.073c9b0a.css.map": "/gameaccolades/static/css/main.073c9b0a.css.map",
-    "main.ecf8d240.js.map": "/gameaccolades/static/js/main.ecf8d240.js.map",
+    "main.4cddf346.js.map": "/gameaccolades/static/js/main.4cddf346.js.map",
     "787.28cb0dcd.chunk.js.map": "/gameaccolades/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ecf8d240.js"
+    "static/js/main.4cddf346.js"
   ]
 }
